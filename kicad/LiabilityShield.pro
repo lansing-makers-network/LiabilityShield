@@ -1,4 +1,4 @@
-update=mer. 02 mars 2016 14:47:02 CET
+update=Monday, January 01, 2018 'PMt' 06:41:44 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,3 +58,7 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=switches
+LibName31=/Users/carl/Documents/KiCad/NixieClockDisplay/lib_sch/Nixie
+LibName32=/Users/carl/Documents/KiCad/lib_sch/neopixel
+LibName33=/Users/carl/Documents/KiCad/lib_sch/tact_switches
